@@ -5,7 +5,7 @@
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
-- **Project 1**: smart city
+- **Project 1**: SMART CITY
 
 
 ## 🚀 Skills
@@ -24,7 +24,6 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Data Analysis and Algorithms</dt>
 <dd>Algorithmic Problem Solving</dd>
 <dt>22ECSC202</dt>
-<dt>Name</dt>
 <dd>Sahana k.p</dd>
 <dd>01FE23BCS168</dd>
 <dt>Prakash Hegade</dt>
