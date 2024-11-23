@@ -18,17 +18,17 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - [LinkedIn](https://www.linkedin.com/in/sahana-k-pampapathi-3765b32a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
-## Portfolio Topic
+## Smart City Topic
 
 <dl>
 <dt>Data Analysis and Algorithms</dt>
 <dd>Algorithmic Problem Solving</dd>
 <dt>22ECSC202</dt>
-<dd>Sahana k.p</dd>
-<dd>01FE23BCS168</dd>
-<dt>Prakash Hegade</dt>
+<dd>Name:Sahana k.p</dd>
+<dd>SRN:01FE23BCS168</dd>
+<dt>Course instructor:Prakash Hegade</dt>
 <dd>Kle Technological University</dd>
-<dt>smart city Topic/Domain</dt>
+<dt>Smart city Topic/Domain</dt>
 <dd>Google</dd>
 </dl>
 
