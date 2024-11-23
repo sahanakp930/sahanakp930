@@ -14,7 +14,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - Web Development (React.js, Node.js)
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-username)
+- [GitHub](https://sahanakp930.github.io/sahanakp930/)
 - [LinkedIn](https://www.linkedin.com/in/sahana-k-pampapathi-3765b32a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
