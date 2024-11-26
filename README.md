@@ -9,7 +9,7 @@
 <dt>Course code:</dt>
     </dd>22ECSC202</dd>
 <dt>Name:</dt>
-    </dt>Sahana k.p</dd>
+    </dd>Sahana k.p</dt>
     </dd> Pooja M</dt>
 <dt>SRN:</dt>
     </dd>01FE23BCS168</dd>
