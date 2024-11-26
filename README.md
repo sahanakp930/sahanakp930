@@ -9,11 +9,10 @@
 <dt>Course code:</dt>
     </dd>22ECSC202</dd>
 <dt>Name:</dt>
-    </dt>Sahana k.p</dd>
-    </dt>Pooja M</dd>
+    </dt>Sahana k.p<br>
+    Pooja M</dd>
     
-    <dt>Name:</dt>
-    <dd>Sahana K.P<br>Pooja M</dd>
+  
 
 
 <dt>SRN:</dt>
