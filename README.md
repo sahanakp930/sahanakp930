@@ -4,7 +4,7 @@
 
 <dl>
 <dt>Course Name:
-  Data Analysis and Algorithms</dd>
+  Data Analysis and Algorithms</dt>
 
 <dt>Course code:
     22ECSC202</dd>
