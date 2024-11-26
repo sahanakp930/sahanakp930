@@ -1,6 +1,6 @@
 👋
  🛠️ Projects
-- **Project 1**: (JAMKHANDI)
+- **Project 1**:CITY PLANNING(JAMKHANDI):Our city planning situated in Bagalkot district in Karnataka.
 
 <dl>
 <dt>Course Name:</dt>
