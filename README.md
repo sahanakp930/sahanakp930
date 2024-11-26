@@ -9,7 +9,7 @@
 <dt>Course code:
   22ECSC202</dt>
 <dd>Name:
-  Sahana k.p
+  Sahana k.p</dd>
   Pooja M</dd>
 <dd>SRN:
   01FE23BCS168
