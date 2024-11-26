@@ -10,10 +10,12 @@
     </dd>22ECSC202</dd>
 <dt>Name:</dt>
     </dt>Sahana k.p<br>
-    Pooja M</dd>
+    Pooja M<br>
+    Vaishali Jadhav</dd>
 <dt>SRN:</dt>
     </dt>01FE23BCS168<br>
-    01FE23BCS166</dd>
+    01FE23BCS166<br>
+    01FE23BCS171</dd>
 <dt>Course instructor:</dt>
      </dd>Prakash Hegade</dd>
 <dt>University:</dt>
