@@ -4,13 +4,13 @@
 
 <dl>
 <dt>Course Name:
-  Data Analysis and Algorithms</dt>
+  Data Analysis and Algorithms</dd>
 
 <dt>Course code:
-    22ECSC202</dt>
+    22ECSC202</dd>
 <dt>Name:
-    Sahana k.p</dt>
-    Pooja M</dt>
+    Sahana k.p</dd>
+    Pooja M</dd>
 <dt>SRN:
     01FE23BCS168</dt>
     01FE23BCS166</dt>
