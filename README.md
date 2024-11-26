@@ -9,14 +9,14 @@
 <dt>Course code:</dt>
     </dd>22ECSC202</dd>
 <dt>Name:</dt>
-    </dd>Sahana k.p</dt>
+    </dt>Sahana k.p</dt>
     </dt> Pooja M</dt>
 <dt>SRN:</dt>
     </dd>01FE23BCS168</dd>
-    </dd>01FE23BCS166</dd>
-<dd>Course instructor:</dt>
+    </dt>01FE23BCS166</dd>
+<dt>Course instructor:</dt>
      </dd>Prakash Hegade</dd>
-<dd>University:</dt>
+<dt>University:</dt>
      </dd>Kle Technological University</dd>
 <dd>Portfolio Topic/Domain:</dt>
      </dd>City Planning</dd>
