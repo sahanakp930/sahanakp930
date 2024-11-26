@@ -8,12 +8,12 @@
 
 <dt>Course code:
     22ECSC202</dt>
-<dd>Name:
-    Sahana k.p</dd>
-    Pooja M</dd>
-<dd>SRN:
-    01FE23BCS168</dd>
-    01FE23BCS166</dd>
+<dt>Name:
+    Sahana k.p</dt>
+    Pooja M</dt>
+<dt>SRN:
+    01FE23BCS168</dt>
+    01FE23BCS166</dt>
 <dd>Course instructor:
      Prakash Hegade</dd>
 <dd>University:
