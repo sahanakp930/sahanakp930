@@ -14,12 +14,12 @@
 <dd>SRN:
     01FE23BCS168</dd>
     01FE23BCS166</dd>
-<dt>Course instructor:
-     Prakash Hegade</dt>
+<dd>Course instructor:
+     Prakash Hegade</dd>
 <dd>University:
      Kle Technological University</dd>
-<dt>Portfolio Topic/Domain:
-     City Planning</dt>
+<dd>Portfolio Topic/Domain:
+     City Planning</dd>
 <dd>Total Area:
       14.6km^2</dd>
 <dd>City zone:
