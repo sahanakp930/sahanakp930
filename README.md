@@ -6,8 +6,8 @@
 <dt>Course Name:
   Data Analysis and Algorithms</dt>
 
-<dt>Course code:
-    22ECSC202</dd>
+<dt>Course code:</dt>
+    </dd>22ECSC202</dd>
 <dt>Name:
     Sahana k.p</dt>
     Pooja M</dt>
